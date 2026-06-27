@@ -1,14 +1,14 @@
 import requests
 import time
 from fake_useragent import UserAgent
-url = "https://mezhdunami.org/"
+url = ""
 session = requests.Session()
 
 # headers = {
 #     'User-Agent': UserAgent().random,
 #     'Accept-Language': 'en-US,en;q=0.9',
 #     'Connection': 'keep-alive',
-#     'Referer': 'https://www.flipkart.com',
+#     'Referer': '',
 # }
 
 # proxies = {
